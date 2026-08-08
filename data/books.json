@@ -1,0 +1,99 @@
+{
+    "books":[
+        {
+          "id": "book_001",
+          "isbn": "978-0141439518",
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "genre": ["Classic", "Romance", "Fiction"],
+          "publicationYear": 1813,
+          "publisher": "Penguin Classics",
+          "location": {
+            "section": "Fiction",
+            "shelf": "A-12"
+          },
+          "inventory": {
+            "totalCopies": 5,
+            "availableCopies": 3,
+            "checkedOutCopies": 2
+          },
+          "status": "Available"
+        },
+        {
+          "id": "book_002",
+          "isbn": "978-0451524935",
+          "title": "1984",
+          "author": "George Orwell",
+          "genre": ["Dystopian", "Political Fiction", "Science Fiction"],
+          "publicationYear": 1949,
+          "publisher": "Signet Classic",
+          "location": {
+            "section": "Fiction",
+            "shelf": "O-04"
+          },
+          "inventory": {
+            "totalCopies": 4,
+            "availableCopies": 0,
+            "checkedOutCopies": 4
+          },
+          "status": "Checked Out"
+        },
+        {
+          "id": "book_003",
+          "isbn": "978-0131103627",
+          "title": "The C Programming Language",
+          "author": ["Brian W. Kernighan", "Dennis M. Ritchie"],
+          "genre": ["Computer Science", "Programming", "Non-Fiction"],
+          "publicationYear": 1988,
+          "publisher": "Prentice Hall",
+          "location": {
+            "section": "Technology",
+            "shelf": "CS-02"
+          },
+          "inventory": {
+            "totalCopies": 3,
+            "availableCopies": 2,
+            "checkedOutCopies": 1
+          },
+          "status": "Available"
+        },
+        {
+          "id": "book_004",
+          "isbn": "978-0061120084",
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "genre": ["Classic", "Historical Fiction"],
+          "publicationYear": 1960,
+          "publisher": "Harper Perennial",
+          "location": {
+            "section": "Fiction",
+            "shelf": "L-08"
+          },
+          "inventory": {
+            "totalCopies": 6,
+            "availableCopies": 4,
+            "checkedOutCopies": 2
+          },
+          "status": "Available"
+        },
+        {
+          "id": "book_005",
+          "isbn": "978-0593078754",
+          "title": "Sapiens: A Brief History of Humankind",
+          "author": "Yuval Noah Harari",
+          "genre": ["History", "Non-Fiction", "Anthropology"],
+          "publicationYear": 2014,
+          "publisher": "Harvill Secker",
+          "location": {
+            "section": "History",
+            "shelf": "H-15"
+          },
+          "inventory": {
+            "totalCopies": 2,
+            "availableCopies": 1,
+            "checkedOutCopies": 1
+          },
+          "status": "Available"
+        }
+      ]
+}
