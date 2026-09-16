@@ -7,7 +7,7 @@ this is a library management API backend for the management of users and the boo
 # Routes and the Endpoints
 
 ## /users
-GET :GET all the list of usrs in the system
+GET :GET all the list of users in the system
 POST: Create/Register a new user
 
 ## /usrs/{id}
