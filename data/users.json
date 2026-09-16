@@ -4,15 +4,17 @@
           "userId": "usr_101",
           "name": "Elena Rostova",
           "email": "elena.rostova@example.com",
+          "issuedbook":"book_001",
           "issuedDate": "2026-08-01",
           "returnDate": "2026-08-15",
           "subscriptionDate": "2025-09-01",
-          "subscriptionType": "Student"
+          "subscriptionType": "Basic"
         },
         {
           "userId": "usr_102",
           "name": "Marcus Vance",
           "email": "m.vance@example.com",
+          "issuedbook":"book_002",
           "issuedDate": "2026-07-10",
           "returnDate": "2026-07-24",
           "subscriptionDate": "2026-01-15",
@@ -22,15 +24,17 @@
           "userId": "usr_103",
           "name": "Aris Thorne",
           "email": "athorne@university.edu",
+          "issuedbook":"book_003",
           "issuedDate": "2026-08-02",
           "returnDate": "2026-09-02",
           "subscriptionDate": "2024-08-20",
-          "subscriptionType": "Faculty"
+          "subscriptionType": "Basic"
         },
         {
           "userId": "usr_104",
           "name": "Sarah Connor",
           "email": "s.connor@library.org",
+          "issuedbook":"book_004",
           "issuedDate": "2026-08-07",
           "returnDate": "2026-08-21",
           "subscriptionDate": "2024-03-10",
@@ -40,6 +44,7 @@
           "userId": "usr_105",
           "name": "David Miller",
           "email": "d.miller@example.com",
+          "issuedbook":null,
           "issuedDate": null,
           "returnDate": null,
           "subscriptionDate": "2026-05-12",
